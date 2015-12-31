@@ -1,0 +1,33 @@
+2015-12-31 18:05:31,705 DEBUG c.v.d.App [main] Start application
+2015-12-31 18:05:37,987 DEBUG c.v.d.App [main] Start application
+2015-12-31 18:07:41,628 DEBUG c.v.d.App [main] Start application
+2015-12-31 18:08:03,873 DEBUG c.v.d.App [main] Start application
+2015-12-31 18:09:20,585 DEBUG c.v.d.App [main] Start application
+2015-12-31 18:15:25,698 DEBUG c.v.d.App [main] Start application
+2015-12-31 18:15:59,047 DEBUG c.v.d.App [main] Start application
+2015-12-31 18:16:18,969 DEBUG c.v.d.App [main] Start application
+2015-12-31 18:17:34,211 DEBUG c.v.d.App [main] Start application
+2015-12-31 18:18:43,932 DEBUG c.v.d.App [main] Start application
+2015-12-31 18:24:44,468 DEBUG c.v.d.App [main] Start application
+2015-12-31 18:24:58,456 DEBUG c.v.d.App [main] Start application
+2015-12-31 18:29:16,689 DEBUG c.v.d.App [main] Start application
+2015-12-31 18:29:58,509 DEBUG c.v.d.App [main] Start application
+2015-12-31 18:32:45,949 DEBUG c.v.d.App [main] Start application
+2015-12-31 18:34:06,114 DEBUG c.v.d.App [main] Start application
+2015-12-31 18:36:54,961 DEBUG c.v.d.App [main] Start application
+2015-12-31 18:42:06,245 DEBUG c.v.d.App [main] Start application
+2015-12-31 18:44:00,168 DEBUG c.v.d.App [main] Start application
+2015-12-31 18:44:02,013 INFO c.v.d.m.SongsManager [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-1] reload the songs in folder
+2015-12-31 18:44:04,002 INFO c.v.d.m.SongsManager [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-2] reload the songs in folder
+2015-12-31 18:44:06,002 INFO c.v.d.m.SongsManager [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-3] reload the songs in folder
+2015-12-31 18:44:08,002 INFO c.v.d.m.SongsManager [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-4] reload the songs in folder
+2015-12-31 18:44:10,002 INFO c.v.d.m.SongsManager [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-5] reload the songs in folder
+2015-12-31 18:46:22,939 DEBUG c.v.d.App [main] Start application
+2015-12-31 18:46:24,015 INFO c.v.d.m.SongsManager [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-1] reload the songs in folder
+2015-12-31 18:46:26,002 INFO c.v.d.m.SongsManager [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-2] reload the songs in folder
+2015-12-31 18:46:28,002 INFO c.v.d.m.SongsManager [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-3] reload the songs in folder
+2015-12-31 18:46:30,002 INFO c.v.d.m.SongsManager [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-4] reload the songs in folder
+2015-12-31 18:46:32,002 INFO c.v.d.m.SongsManager [org.springframework.scheduling.quartz.SchedulerFactoryBean#0_Worker-5] reload the songs in folder
+2015-12-31 18:46:53,783 DEBUG c.v.d.App [main] Start application
+2015-12-31 18:48:11,028 DEBUG c.v.d.App [main] Start application
+2015-12-31 18:48:30,643 DEBUG c.v.d.App [main] Start application
