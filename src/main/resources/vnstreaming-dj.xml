@@ -2,5 +2,15 @@
 <beans xmlns="http://www.springframework.org/schema/beans"
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="songsManager" class="com.vnstreaming.dj.manager.SongsManager">
+       <property name="musicPath" value="/var/vnstreaming/music"/>
+   </bean>
+
+    <bean id="ffmpegManager" class="com.vnstreaming.dj.manager.FFmpegManager">
+        <property name="imagePath" value="/var/vnstreaming/dj-services.jpg"/>
+        <property name="rtmpPath" value="rtmp://127.0.0.1/radio/vnstreaming-dj"/>
+    </bean>
+
     <import resource="quart-job.xml"/>
 </beans>

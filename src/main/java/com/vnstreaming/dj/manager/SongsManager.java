@@ -77,7 +77,7 @@ public class SongsManager {
             }
             standOutput += tmp.charAt(i);
         }
-        if(!standOutput.equals(currentName)) {
+        if(standOutput != currentName) {
             logger.debug("Convert file name " + currentName + " to : " + standOutput);
             File newFile = new File(getMusicPath() + File.separator + standOutput);
             if (!file.renameTo(newFile)) {
